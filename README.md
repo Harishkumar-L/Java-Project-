@@ -1,6 +1,6 @@
 # Hotel Reservation System (Java OOP Mini-Project)
 Course: 23CSR306 Java Programming | Assignment II, Specification 4
-Student: Cibi K. | Reg. No.: 717825F112 | II / IT / III / A | 2026-2027
+Student:Harishkumar L. | Reg. No.: 717825F317 | II / IT / III / C | 2026-2027
 
 Problem: Java console application to manage rooms, customers, reservations, cancellations and billing.
 
